@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "fflate": "^0.8.2",
+    "modbus-serial": "^8.0.23",
+    "socket.io": "^4.8.1",
+    "three": "^0.128.0"
+  },
+  "name": "webc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tks183/ABB--3D---.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tks183/ABB--3D---/issues"
+  },
+  "homepage": "https://github.com/tks183/ABB--3D---#readme",
+  "devDependencies": {}
+}
